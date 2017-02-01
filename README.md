@@ -4,7 +4,7 @@
 "Приучить себя выполнять домашнее задание"
 # Выводы
 
-
-<p align="center"><img src="../img/Снимок (2).PNG"></p>
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+<p align="center"><img src="https://github.com/infinyti/010217.dev/img/master/Снимок (2).PNG"></p>
 <p align="center"><img src=""></p>
 <p align="center"><img src=""></p>
