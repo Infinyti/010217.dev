@@ -8,7 +8,7 @@
         <title>Form</title>
     </head>
     <body>
-        <form method="post">
+        <form method="post" action="authorization.php">
             <label>Login:
                 <input type="text" placeholder="Login" name="login">
             </label>
