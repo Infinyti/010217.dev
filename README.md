@@ -5,6 +5,6 @@
 # Выводы
 
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="../img/Снимок (2).PNG"></p>
 <p align="center"><img src=""></p>
 <p align="center"><img src=""></p>
