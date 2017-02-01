@@ -2,14 +2,20 @@
 
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="ru">
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Form</title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <form method="post">
+            <label>Login:
+                <input type="text" placeholder="Login" name="login">
+            </label>
+            <label>Password:
+                <input type="password" placeholder="Password" name="pass">
+            </label>
+            <input type="submit" value="Sign in">
+        </form>
     </body>
 </html>
